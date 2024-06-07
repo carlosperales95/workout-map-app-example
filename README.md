@@ -12,4 +12,4 @@ This project is a static site, simply open the `index.html` file.
 
 ### Is this component demo hosted?
 
-I hosted a demo on Netlify, **[click here to see it](https://appmap-site.netlify.app/)**
+I hosted a demo on Netlify, **[click here to see it](https://workout-map-app-example.netlify.app/)**
